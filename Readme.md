@@ -1,2 +1,1 @@
-From console
-From IDEA after console
+Conflict from console
