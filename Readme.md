@@ -1,1 +1,1 @@
-Version from console
+Version from IDEA
